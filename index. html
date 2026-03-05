@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CSS Display</title>
+    <style>
+        .Navigasi li {
+            display: inline;
+            
+        }
+      
+    </style>
+</head>
+
+<body>
+  <dev class="header">
+    <h1>Selamat datang di website kami</h1>
+  </dev>
+  
+  <dev class="navigasi">
+       <a href="#">link 1</a>
+       <a href="#">link 2</a>
+       <a href="#">link 3</a>
+       <a href="#">link 4</a>
+  </dev>
+  
+  <dev class="main">
+      <h2>Judul artikel</h2>
+      <img src="/image/images.png" width="50%">
+      <p>Lorm ipsum dolor sit amet, consectetur adipisicing elit, saepe,nobis vel, libero, fecilis fugiat accusamus, est aspetnatur tenetur aliquid quis nisi. Architecto necessitatibus illo, ducimu, sequi unde rerum.</p>
+  
+      <p>Lorem ipsum dolor sit amet, consuctetur adipisicing elit.Fuga boluptas fugiat sed doloribus excepturi cum retione aut laudantium cupidutate colorum.</p>
+   </div>
+   
+  <div class="classright">
+       <p class="copyright">copyright 2026. web progaming UNPAS</p>
+  </div>
+</body>
+
+</html>
